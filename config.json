@@ -1,0 +1,9 @@
+{
+    "name": "Music Disc",
+    "prefix": "soo!",
+    "playing": "soo!help ",
+    "quality": "highestaudio",
+    "maxVol": 200,
+    "autoLeave": true,
+    "displayVoiceState": true
+}
